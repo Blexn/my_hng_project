@@ -1,1 +1,1 @@
-# my_hng_project
+This is the beginning of my project tasks at HNGi7
